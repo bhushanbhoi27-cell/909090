@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JODIVA</string>
+    <string name="app_tagline">One World, One Community.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_reels">Reels</string>
+    <string name="nav_profile">Profile</string>
+    <string name="ai_firebase_notice">Sample AI output — Enable Firebase to connect live Gemini AI via Firebase AI Logic.</string>
+</resources>

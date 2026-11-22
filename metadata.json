@@ -1,0 +1,6 @@
+{
+  "name": "JODIVA",
+  "description": "One World, One Community — A global social networking, communication, live quiz, news, and learning platform with AI-powered translation and support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
